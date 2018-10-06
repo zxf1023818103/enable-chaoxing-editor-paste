@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         破解超星作业比较器粘贴限制
+// @name         破解超星作业编辑器粘贴限制
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @author       Zeng Xiangfei
