@@ -9,6 +9,7 @@
 // @compatible   firefox
 // @compatible   edge
 // @compatible   safari
+// @description  破解超星作业编辑器粘贴限制。
 // @license      MIT
 // @match        https://mooc1-2.chaoxing.com/work/doHomeWorkNew?*
 // @grant        none
